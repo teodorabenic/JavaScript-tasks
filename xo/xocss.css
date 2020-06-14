@@ -1,0 +1,48 @@
+html{
+    background:rgb(255, 217, 223);
+    background-size:cover;
+    font-family: 'helvica neue';
+    text-align: center;
+    font-size: 10px;
+}
+
+td{
+    border:3px solid black;
+    height: 200px;
+    width: 200px;
+    text-align:center;
+    vertical-align: middle;
+    font-family:sans-serif;
+    font-size: 70px;
+    cursor: pointer;
+}
+table{
+    border-collapse: collapse;
+    position: absolute;
+    left: 47%;
+    margin-left: -250px;
+    top: 70px;
+
+}
+.endgame{
+    display:none;
+    width: 200px;
+    top: 300px;
+    font-size: 50px;
+    background-color: rgba(241, 112, 203, 0.8);
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 2em;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: thistle;
+    box-shadow: violet;
+}
